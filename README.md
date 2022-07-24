@@ -6,6 +6,26 @@ The purpose of this project is pick one of Amazon datasest and use PySpark to pe
 
 ## Results:
 
+### Connect to an AWS RDS instance and load the transformed data into pgAdmin
+
+![Screen Shot 2022-07-21 at 8 35 29 PM (2)](https://user-images.githubusercontent.com/102264298/180665969-6fefe4dc-3d33-4846-a938-deaa73cf812b.png)
+
+#### Review_table
+
+![review_table](https://user-images.githubusercontent.com/102264298/180665979-67f1dd44-014e-4dee-8af3-68403786e3e0.png)
+
+#### Customer_table
+
+![customerid](https://user-images.githubusercontent.com/102264298/180665982-f88d3158-e4c4-4edc-be16-130c7b74be75.png)
+
+#### Product_table
+
+![product_table](https://user-images.githubusercontent.com/102264298/180665992-57c0e7ae-7d5e-44dd-9bbe-a258e92b4636.png)
+
+#### Vine_table
+
+![vine_table](https://user-images.githubusercontent.com/102264298/180665997-1c6d7441-5512-439c-8913-75eada80d00d.png)
+
 ### Filter the dataset where the total votes is equal to or greater than 20. 
 
 <img width="715" alt="Screen Shot 2022-07-24 at 3 16 49 PM" src="https://user-images.githubusercontent.com/102264298/180664342-b22df272-a10d-4abc-b436-3107249b3dc9.png">
