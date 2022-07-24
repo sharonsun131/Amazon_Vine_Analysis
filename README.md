@@ -20,16 +20,18 @@ The purpose of this project is pick one of Amazon datasest and use PySpark to pe
 
 * How many Vine reviews and non-Vine reviews were there?
 
-  From the table above, we can see that there are 1080 Vine reviews and 49673 non-Vine reviews.
+  From the table above, we can see that there are 1,080 Vine reviews and 49,673 non-Vine reviews.
 
 * How many Vine reviews were 5 stars? How many non-Vine reviews were 5 stars?
 
-  There are 454 Vine reviews were 5 stars, while there are 23043 non-Vine reviews were 5 stars.
+  There are 454 Vine reviews were 5 stars, while there are 23,043 non-Vine reviews were 5 stars.
 
 * What percentage of Vine reviews were 5 stars? What percentage of non-Vine reviews were 5 stars?
 
-  The percentage of Vine reviews were 5 stars is 42.04%, while the percentage of non-Vine reviews were 5 stars is 46.39%. 
+  42.04 percent of Vine reviews were 5 stars, while 46.39 percent of non-Vine reviews were 5 stars. 
 
-## Summary: In your summary, state if there is any positivity bias for reviews in the Vine program. Use the results of your analysis to support your statement. Then, provide one additional analysis that you could do with the dataset to support your statement.
+## Summary: 
 
-From the analysis, there is not significant difference between the percentage of Vine reviews were 5 stars (42.04%) and the percentage of non-Vine reviews were 5 stars (46.39%). As a results, there is no positivity bias for reviews of Electronics in the Vine program. 
+* From the analysis, there is not significant difference between the percentage of Vine reviews were 5 stars (42.04%) and the percentage of non-Vine    reviews were 5 stars (46.39%). As a results, there is no positivity bias for reviews of Electronics in the Vine program. 
+
+* In order to futher support this statement, it is recommend to analyze the statistical distribution, including mean, median, standard deviation, and etc, for the Vine and non-Vine reviews. 
